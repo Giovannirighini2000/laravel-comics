@@ -25,7 +25,9 @@
     background-image: url('../img/footer-bg.jpg');
     position: relative;
     z-index: -2;
-    height: 330px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .img-big {
@@ -91,4 +93,8 @@
     border: 1px solid #0282f9;
     background-color: #303030;
     padding: 10px 5px;
+}
+
+.click {
+    color: #0282f9;
 }

@@ -65,6 +65,11 @@
                                     <li class="grey">Shop DC</li>
                                     <li class="grey">Shop DC Collectibles</li>
                                 </ul>
+                                <div >
+                                    
+                                    <p class="grey">All site Content TM @ 2020 DC Entertainment, unless otherwise <span class="click">noted here</span>. All rights reserved.</p>
+                                    <p class="click">Cookies Settings</p>
+                                </div>
                             </div>
                         </div>
                         <div>
