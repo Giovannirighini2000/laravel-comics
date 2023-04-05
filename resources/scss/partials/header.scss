@@ -1,0 +1,48 @@
+.justify-content-list {
+    gap: 35px;
+
+}
+
+.active {
+    color: #2a92fa;
+}
+
+.active:after {
+    content: "";
+    position: absolute;
+    top: 59px;
+    left: 0;
+    right: 0;
+    height: 0.5em;
+    border-bottom: 3px solid #2a92fa;
+
+}
+
+.pad-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.relative-line {
+    position: relative;
+}
+
+.line {
+    border-bottom: 3px solid #2a92fa;
+    width: 100px;
+
+}
+
+.pos {
+    margin-left: 30px;
+}
+
+.img {
+    width: 90px;
+    margin-right: 70px;
+
+}

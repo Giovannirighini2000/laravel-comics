@@ -1,0 +1,94 @@
+.back-blu {
+    background-color: #0282f9;
+}
+
+.back-main {
+    background-color: #0282f9;
+    height: 134px;
+}
+
+.width-img {
+    width: 50px;
+    object-fit: contain;
+}
+
+.white {
+    color: white;
+}
+
+.center-main {
+    justify-content: space-around;
+    align-items: center;
+}
+
+.back-img {
+    background-image: url(('resources/img/footer-bg.jpg'));
+    position: relative;
+    z-index: -2;
+    height: 330px;
+}
+
+.img-big {
+    width: 440px;
+    margin-top: -70px;
+    margin-bottom: -40px;
+}
+
+.z-index {
+    position: relative;
+    z-index: -1;
+}
+
+.pad {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.pad-reset {
+    padding-bottom: 0px;
+}
+
+.grey {
+    color: grey;
+    padding-top: 3px;
+}
+
+.mini-title {
+    padding-bottom: 10px;
+}
+
+.mini-title-shop {
+    padding-top: 10px;
+}
+
+.gap-list {
+    gap: 15px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.gap-img {
+    gap: 15px;
+}
+
+.background-social {
+    background-color: #303030;
+}
+
+.follow-color {
+    color: #0282f9;
+    padding-right: 10px;
+    align-items: center;
+    font-family: math;
+}
+
+.pad-last {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.button-sing {
+    border: 1px solid #0282f9;
+    background-color: #303030;
+    padding: 10px 5px;
+}
