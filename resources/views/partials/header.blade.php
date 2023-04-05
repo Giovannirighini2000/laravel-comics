@@ -10,7 +10,21 @@
 <body>
     <header>
         <div>
+            <div class="back-h">
+                <div class="flex-side-h container">
+                    <div class="side-h">
+                        <a href="">DC POWER VISA</a>
+
+                    </div>
+                    <div class="side-h">
+                        <a href="">ADDITIONAL DC SITES </a>
+
+                    </div>
+                </div>
+                
+            </div>
             <div class="container">
+                
                 <div class="flex center-items pad-header">
                     <img class="img" src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="">
                     <nav>
