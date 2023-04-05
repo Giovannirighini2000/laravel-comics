@@ -55,7 +55,7 @@
      </style>
 
 <body>
-    <footer>
+    <header>
         <div>
             <div class="container">
                 <div class="flex center-items pad-header">
@@ -102,7 +102,7 @@
 
             </div>
         </div>
-    </footer>
+    </header>
     
 </body>
 </html>
