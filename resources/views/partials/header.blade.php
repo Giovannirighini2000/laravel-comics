@@ -13,11 +13,11 @@
             <div class="back-h">
                 <div class="flex-side-h container">
                     <div class="side-h">
-                        <a href="">DC POWER VISA</a>
+                        <a href="">ADDITIONAL DC SITES</a>
 
                     </div>
                     <div class="side-h">
-                        <a href="">ADDITIONAL DC SITES </a>
+                        <a href=""> DC POWER VISA</a>
 
                     </div>
                 </div>
