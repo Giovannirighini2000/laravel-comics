@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<style lang="scss">
+<style>
     .back-blu {
         background-color: #0282f9;
     }
